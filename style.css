@@ -1,0 +1,201 @@
+body
+{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514E;
+}
+.top-cloud
+{
+    position:absolute;
+    top:10%;
+    left:75%;
+
+}
+.intro
+{
+    padding-bottom: 7%;
+    width:50%;
+    margin:auto auto;
+}
+
+.myskills
+{
+    padding-top:7%;
+    
+}
+.myphoto
+{
+    margin:5% 0 auto;
+    width:15%;
+}
+
+#second
+{
+    text-align: center;
+}
+
+#third
+{
+    text-align: center;
+}
+#fourth
+{
+    text-align: center;
+}
+.dot
+{
+    border-top:10px dotted;
+    color:grey;
+    width:25%;
+    margin:auto auto;
+}
+.main 
+{
+    background-color:#EAF6F6;
+    padding-top: 12.5rem;
+}
+h1 {
+    width:15%;
+    margin:0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 5rem;
+    text-align: center;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    text-align: center;
+    font-weight:bolder;
+
+
+}
+
+p{
+
+    line-height: 2;
+}
+
+.skill-row
+{
+    width:50%;
+    margin:100px auto;
+    text-align:left;
+    line-height: 2;
+
+}
+
+.par-descrip
+{
+    clear: left;
+}
+.par-descrip1
+{
+    clear:right;
+}
+.img-1
+{
+    width:25%;
+    float: left;
+    margin-right:30px;
+}
+.img-2
+{
+    width:25%;
+    float: right;
+    margin-left:30px;
+}
+
+.bottom-cloud
+{
+    position:absolute;
+    left:10%;
+    bottom:10%;
+}
+
+
+.middle-container
+{
+    text-align: center;
+}
+.bottom-container
+{
+    margin-top:10%;
+    padding-top:10%;
+    background-color:#11ccd4;
+    
+}
+
+#fourth
+{
+    margin:10% 0;
+    background-color:#11ccd4;
+    padding-bottom: 2.5%;
+} 
+
+.hoverr
+{
+
+    width:40%;
+    margin:40px auto;
+}
+  .footer-link
+{
+    color: #11999E;
+}
+.detail
+{
+    padding:0 20px;
+}
+.span
+{
+    text-decoration: underline;
+}
+
+.footer-link
+{
+    padding: 1.25%;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif ;
+}
+
+a:hover
+{
+    color:white;
+}
+
+.bottom-para
+{
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-bottom: 0;
+    color:cornsilk;
+    font-size: small;
+    font-family:'Montserrat', sans-serif ;
+}
+
+#first
+{
+    background-color:#EAF6F6;
+    text-align: center;
+}
+ .main-img
+   {
+        object-fit:contain;
+        width: 100%;
+    }
